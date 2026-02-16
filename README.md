@@ -6,7 +6,7 @@ I'm a Computer Science student at **San Francisco State University**, focused on
 ---
 
 ### 🚀 What I'm Building
-- **[Cubeclash](https://github.com/your-username/cubeclash):** A virtual speed-cube competition platform. (Check it out if you're into cubing!)
+- **[Cubeclash](https://github.com/madargani/cubeclash):** A virtual speed-cube competition platform. (Check it out if you're into cubing!)
 - **Personal Home Lab:** I'm currently architecting and maintaining my own **self-hosted cloud** solution. I'm a big advocate for digital sovereignty and the Linux ecosystem.
 
 ### 🛠 Tech Stack
