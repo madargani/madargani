@@ -14,12 +14,9 @@ I'm a Computer Science student at **San Francisco State University**, focused on
 - **Interests:** Agentic-Programming, Self-Hosting, Linux
 
 ### 🍞 Beyond the Code
-* **Speedcubing:** Chasing my first sub 10 solve.
+* **Speedcubing:** Sub-10 PB, Chasing Sub-15 Ao100.
 * **Wrestling:** I enjoy the discipline and grit of the sport.
-* **Baking:** Applying the same precision I use in Python to my oven.
-
-### 📊 GitHub Stats
-![My github stats](https://github-readme-stats.vercel.app/api?username=madargani)
+* **Baking:** Applying the same precision I use in code to bread.
 
 ---
 
